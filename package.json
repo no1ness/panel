@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/no1ness/testcards.git"
+    "url": "git+https://github.com/no1ness/button.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/no1ness/testcards/issues"
+    "url": "https://github.com/no1ness/button/issues"
   },
-  "homepage": "https://github.com/no1ness/testcards#readme",
+  "homepage": "https://github.com/no1ness/button#readme",
   "devDependencies": {
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3"
